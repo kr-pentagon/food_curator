@@ -1,4 +1,5 @@
 it will recomend you food for that tempurture.
+it print once
 
  -3 ~ 0   Hotteok
  
