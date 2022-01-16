@@ -6,10 +6,10 @@ it print once
  
   1 ~ 10  Kimbap
   
- 11 ~ 20  mecdonald
+ 11 ~ 20  Macdonald
  
- 21 ~ 30  dukbokki
+ 21 ~ 30  Dukbokki
  
- 31 ~ 35  icecream
+ 31 ~ 35  Icecream
  
  36 ~     X
